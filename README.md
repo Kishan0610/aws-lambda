@@ -32,10 +32,10 @@ For Function 2:
 }
 
 
-### Screenshots
-![AWS_addTwoNymbers_SS](https://github.com/user-attachments/assets/bdc033cc-c4c1-4842-83d9-0ac3620f3dac)
-![AWS_S3Bucket_SS](https://github.com/user-attachments/assets/71506297-5a47-4854-b388-4946289844cd)
-![AWS_S3Bucket_savedFile](https://github.com/user-attachments/assets/c81df564-6053-407c-9527-2d2a843f385c)
+  ### Screenshots
+  ![AWS_addTwoNymbers_SS](https://github.com/user-attachments/assets/bdc033cc-c4c1-4842-83d9-0ac3620f3dac)
+  ![AWS_S3Bucket_SS](https://github.com/user-attachments/assets/71506297-5a47-4854-b388-4946289844cd)
+  ![AWS_S3Bucket_savedFile](https://github.com/user-attachments/assets/c81df564-6053-407c-9527-2d2a843f385c)
 
 
 
