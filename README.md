@@ -37,8 +37,9 @@ For Function 2:
 Here are the screenshots of the Lambda function output:
 
 ### Add Two Numbers Function
-![Add Two Numbers Output](assets/screenshots/lambda-output.png)
+![Add Two Numbers Output](assets/screenshots/AWS_addTwoNymbers_SS.png)
 
 ### Store Document in S3 Function
-![Store Document Output](assets/screenshots/lambda-output-2.png)
+![Store Document Output](assets/screenshots/AWS_S3Bucket_SS.png)
+![Store Document Output](assets/screenshots/AWS_S3Bucket_savedFile.png)
 
