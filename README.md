@@ -26,7 +26,6 @@ For Function 1:
 }
 
 For Function 2:
-```json
 {
   "bucket_name": "my-lambda-bucket-unique",
   "file_name": "sample.pdf",
