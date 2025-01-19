@@ -8,6 +8,14 @@
   2. Upload the `add_two_numbers.py` file as a ZIP.
   3. Test the function using an API Gateway.
 
+### Example Payloads
+For Function 1:
+```json
+{
+  "number1": 5,
+  "number2": 10
+}
+
 ### Function 2: Store Document in S3
 - **File**: `store_document_s3.py`
 - **Description**: This function uploads a document to an S3 bucket.
@@ -18,13 +26,6 @@
   4. Test the function by passing a sample file.
 
 ### Example Payloads
-For Function 1:
-```json
-{
-  "number1": 5,
-  "number2": 10
-}
-
 For Function 2:
 {
   "bucket_name": "my-lambda-bucket-unique",
