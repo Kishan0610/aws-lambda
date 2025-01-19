@@ -28,6 +28,17 @@ For Function 1:
 For Function 2:
 {
   "bucket_name": "my-lambda-bucket-unique",
-  "file_name": "sample.pdf",
+  "file_name": "test.pdf",
   "file_content": "content.."
 }
+
+## AWS Lambda Output Screenshots
+
+Here are the screenshots of the Lambda function output:
+
+### Add Two Numbers Function
+![Add Two Numbers Output](assets/screenshots/lambda-output.png)
+
+### Store Document in S3 Function
+![Store Document Output](assets/screenshots/lambda-output-2.png)
+
