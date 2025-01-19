@@ -24,3 +24,10 @@ For Function 1:
   "number1": 5,
   "number2": 10
 }
+
+For Function 2:
+{
+  "bucket_name": "my-lambda-bucket-unique",
+  "file_name": "sample.pdf",
+  "file_content": "Content of file"
+}
