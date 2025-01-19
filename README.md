@@ -33,13 +33,9 @@ For Function 2:
 }
 
 ## AWS Lambda Output Screenshots
+![AWS_addTwoNymbers_SS](https://github.com/user-attachments/assets/6ce23043-d21b-489a-8886-d4dc4cbcdb17)
+![AWS_S3Bucket_SS](https://github.com/user-attachments/assets/418358f7-bf0f-4fd5-a3c2-25ac217c8ad6)
+![AWS_S3Bucket_savedFile](https://github.com/user-attachments/assets/dea81fbc-066e-41f5-a579-4c996098d405)
 
-Here are the screenshots of the Lambda function output:
 
-### Add Two Numbers Function
-![Add Two Numbers Output](assets/screenshots/AWS_addTwoNymbers_SS.png)
-
-### Store Document in S3 Function
-![Store Document Output](assets/screenshots/AWS_S3Bucket_SS.png)
-![Store Document Output](assets/screenshots/AWS_S3Bucket_savedFile.png)
 
