@@ -2,7 +2,7 @@
 
 ### Function 1: Add Two Numbers
 - **File**: `add_two_numbers.py`
-- **Description**: This function takes two numbers as input (via an API Gateway) and returns their sum.
+- **Description**: This function takes two numbers as input and returns their sum.
 - **Deployment Instructions**:
   1. Create a Lambda function in the AWS Management Console.
   2. Test the function.
