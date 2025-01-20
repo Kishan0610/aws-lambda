@@ -12,9 +12,8 @@
 - **Description**: This function uploads a document to an S3 bucket.
 - **Deployment Instructions**:
   1. Create an S3 bucket in AWS.
-  2. Create a Lambda function in the AWS Management Console.
-  3. Upload the `store_document_s3.py`.
-  4. Test the function by passing a sample file.
+  2. Upload the `store_document_s3.py`.
+  3. Test the function by passing a sample file.
 
 
  ### Screenshots
